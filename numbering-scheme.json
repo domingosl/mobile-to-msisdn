@@ -1,0 +1,12 @@
+{
+  "US": {
+    "internationalCode": "1",
+    "nationalPrefix": "1",
+    "canStartWithInternationalCode": false,
+    "minLength": 10,
+    "maxLength": 10,
+    "formats": [
+      "^1[0-9]{10}$"
+    ]
+  }
+}

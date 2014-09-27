@@ -1,0 +1,24 @@
+{
+  "name": "mobile-to-msisdn",
+  "version": "0.0.1",
+  "description": "Convert a mobile phone to an internationalized msisdn format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blssm/mobile-to-msisdn.git"
+  },
+  "keywords": [
+    "msisdn",
+    "format",
+    "string"
+  ],
+  "author": "Matthew J. Martin <matthew.mar10@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blssm/mobile-to-msisdn/issues"
+  },
+  "homepage": "https://github.com/blssm/mobile-to-msisdn"
+}
